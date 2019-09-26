@@ -13,13 +13,13 @@
 
 Program launch 
 
-for mac 
-through terminal
-cd ./desktop/localbitcoinBot
-node qiwi
+for mac   
+through terminal  
+cd ./desktop/localbitcoinBot  
+node qiwi  
 
-for windows
-click twice on qiwi.sh
+for windows  
+click twice on qiwi.sh  
 
-for other payment methods add me telegramm @RobinsonNikolay
+for other payment methods add me telegramm @RobinsonNikolay  
 perfect money; paypal; advcash; webmoney; payeer; yandex
