@@ -1,0 +1,46 @@
+{
+  "_from": "node-qiwi-api",
+  "_id": "node-qiwi-api@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-MlwiRRg4nHgMKRgLLB8nn1JY4dgqhiHIggWOyFoo9BBTuA7ekiNUI+RT1ve45dYpnGCDdrkcIbJg/nJVq5/VQw==",
+  "_location": "/node-qiwi-api",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "node-qiwi-api",
+    "name": "node-qiwi-api",
+    "escapedName": "node-qiwi-api",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-qiwi-api/-/node-qiwi-api-1.1.1.tgz",
+  "_shasum": "7c199a733086ecc8bb926eddeb1689649bc7c4dc",
+  "_spec": "node-qiwi-api",
+  "_where": "/Users/monaliza/Desktop/local",
+  "author": {
+    "name": "Sergey Nazarov, insight.appdev@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/InsightAppDev/node-qiwi-api/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "request": "2.81.0"
+  },
+  "deprecated": false,
+  "description": "node-qiwi-api\r ================\r Официальная [документация](https://developer.qiwi.com/qiwiwallet/qiwicom_ru.html) к Qiwi api.",
+  "homepage": "https://github.com/InsightAppDev/node-qiwi-api",
+  "keywords": [
+    "QIWI",
+    "Wallet"
+  ],
+  "main": "node-qiwi-api.js",
+  "name": "node-qiwi-api",
+  "version": "1.1.1"
+}

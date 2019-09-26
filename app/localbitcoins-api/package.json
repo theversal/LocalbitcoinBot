@@ -1,0 +1,69 @@
+{
+  "_from": "localbitcoins-api",
+  "_id": "localbitcoins-api@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-LTwFC+5HtbDapTI+mu7fGwUf6f8=",
+  "_location": "/localbitcoins-api",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "localbitcoins-api",
+    "name": "localbitcoins-api",
+    "escapedName": "localbitcoins-api",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/localbitcoins-api/-/localbitcoins-api-0.0.3.tgz",
+  "_shasum": "2d3c050bee47b5b0daa5323e9aeedf1b051fe9ff",
+  "_spec": "localbitcoins-api",
+  "_where": "/Users/monaliza/Desktop/yandex",
+  "author": {
+    "name": "Vlad Nistor",
+    "url": "https://github.com/vnistor"
+  },
+  "bugs": {
+    "url": "https://github.com/CoinFlux/localbitcoins-api/issues",
+    "email": "contact@coinflux.eu"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Anthony Mayfield",
+      "url": "https://github.com/mrmayfield"
+    },
+    {
+      "name": "Robert Myers",
+      "url": "https://github.com/nothingisdead"
+    }
+  ],
+  "dependencies": {
+    "querystring": ">=0.2.0",
+    "request": ">=2.27.0"
+  },
+  "deprecated": false,
+  "description": "LocalBitcoins API wrapper for NodeJS",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "homepage": "https://github.com/CoinFlux/localbitcoins-api#readme",
+  "keywords": [
+    "localbitcoins",
+    "api",
+    "btc",
+    "bitcoin"
+  ],
+  "license": "MIT",
+  "main": "localbitcoins.js",
+  "name": "localbitcoins-api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoinFlux/localbitcoins-api.git"
+  },
+  "version": "0.0.3"
+}

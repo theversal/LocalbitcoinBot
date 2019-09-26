@@ -1,0 +1,32 @@
+{
+	"qiwi":{
+		"79991112233": "qiwiApiToken",
+		"": "",
+		"": ""
+	},
+	"login": "MyLocalBitcoinNick",
+	"localbitcoinApiKeyFirst": {
+		"apiKey": "there api key",
+		"apiSecret": "there write secret"
+	},
+	"localbitcoinApiKeySecond": {
+		"apiKey": "there api key",
+		"apiSecret": "there write secret"
+	},
+	"buyOrderOptions":{
+		"minOpenOrderAmount": "3000",
+		"visible": true
+	},
+	"sellOrderOptions":{
+		"maxOpenOrderAmount": "30000",
+		"minOpenOrderAmount": "3000",
+		"visible": true,
+		"sms_verification_required": true
+	},
+	"proxy": {
+		"login": "",
+		"password": "",
+		"address": "",
+		"port": ""
+	}
+}

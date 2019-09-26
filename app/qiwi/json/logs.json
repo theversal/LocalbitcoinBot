@@ -1,0 +1,607 @@
+{
+    "time": 1569513471673,
+    "buy": [
+        {
+            "name": "BTC.proTRADE",
+            "price": 638936,
+            "high": 3331,
+            "low": 1000
+        },
+        {
+            "name": "GhettoPusher",
+            "price": 638904,
+            "high": 15665,
+            "low": 1000
+        },
+        {
+            "name": "accex.co",
+            "price": 638893,
+            "high": 85638,
+            "low": 1000
+        },
+        {
+            "name": "leoPro",
+            "price": 638882,
+            "high": 10000,
+            "low": 5000
+        },
+        {
+            "name": "imgocom",
+            "price": 638860,
+            "high": 8000,
+            "low": 500
+        },
+        {
+            "name": "pna",
+            "price": 638828,
+            "high": 8625,
+            "low": 1000
+        },
+        {
+            "name": "MezencevAS",
+            "price": 638778,
+            "high": 307,
+            "low": 100
+        },
+        {
+            "name": "CommunaExchange",
+            "price": 638696,
+            "high": 6824,
+            "low": 100
+        },
+        {
+            "name": "BABUSHKA_BITOK",
+            "price": 638500,
+            "high": 9100,
+            "low": 2000
+        },
+        {
+            "name": "alicho",
+            "price": 637482.59,
+            "high": 54967,
+            "low": 20000
+        },
+        {
+            "name": "zloi064",
+            "price": 631733.05,
+            "high": 1200,
+            "low": 100
+        },
+        {
+            "name": "Lapulya8",
+            "price": 628000,
+            "high": 4093,
+            "low": 100
+        },
+        {
+            "name": "Mimimimm",
+            "price": 627844.95,
+            "high": 9253,
+            "low": 200
+        },
+        {
+            "name": "lord_alex",
+            "price": 622007,
+            "high": 10000,
+            "low": 100
+        },
+        {
+            "name": "honda611io",
+            "price": 622006,
+            "high": 306655,
+            "low": 50
+        },
+        {
+            "name": "bar56",
+            "price": 622004,
+            "high": 119125,
+            "low": 50
+        },
+        {
+            "name": "DADDY_COOL55",
+            "price": 622003,
+            "high": 150000,
+            "low": 30000
+        },
+        {
+            "name": "Topp_TRADE",
+            "price": 622001,
+            "high": 438500,
+            "low": 50000
+        },
+        {
+            "name": "cryptobmen",
+            "price": 621083.72,
+            "high": 2030,
+            "low": 400
+        },
+        {
+            "name": "td7475",
+            "price": 616185,
+            "high": 10000000,
+            "low": 5000
+        },
+        {
+            "name": "niktugol",
+            "price": 616175,
+            "high": 300000,
+            "low": 20000
+        },
+        {
+            "name": "skillbit",
+            "price": 616165,
+            "high": 90000,
+            "low": 7000
+        },
+        {
+            "name": "tugoluk",
+            "price": 616164,
+            "high": 990000,
+            "low": 20000
+        },
+        {
+            "name": "Forbidden",
+            "price": 616151,
+            "high": 37211,
+            "low": 2000
+        },
+        {
+            "name": "Deniro45",
+            "price": 600000,
+            "high": 40000,
+            "low": 1000
+        },
+        {
+            "name": "Crypto_bank_116",
+            "price": 600000,
+            "high": 19740,
+            "low": 10
+        },
+        {
+            "name": "fedorintaliev",
+            "price": 597438.95,
+            "high": 10000,
+            "low": 3000
+        },
+        {
+            "name": "Paybits",
+            "price": 596009,
+            "high": 49450,
+            "low": 2000
+        },
+        {
+            "name": "Enzsco",
+            "price": 595893.4,
+            "high": 15000,
+            "low": 1000
+        },
+        {
+            "name": "TheDiva",
+            "price": 583967.05,
+            "high": 15000,
+            "low": 1000
+        },
+        {
+            "name": "harison",
+            "price": 578365.99,
+            "high": 1200000,
+            "low": 15000
+        },
+        {
+            "name": "24ONLINE",
+            "price": 577687.83,
+            "high": 15000,
+            "low": 1000
+        },
+        {
+            "name": "bit_trade888",
+            "price": 558258.03,
+            "high": 500000,
+            "low": 1000
+        },
+        {
+            "name": "Money777maker",
+            "price": 477220.38,
+            "high": 100000,
+            "low": 500
+        },
+        {
+            "name": "Stroiteg",
+            "price": 340101,
+            "high": 15000,
+            "low": 1
+        },
+        {
+            "name": "Diesel70",
+            "price": 329030.83,
+            "high": 25000,
+            "low": 1
+        },
+        {
+            "name": "den03061978",
+            "price": 646501.76,
+            "high": 30000,
+            "low": 2000
+        },
+        {
+            "name": "bitcoin-ruble.exchange",
+            "price": 638000,
+            "high": 30000,
+            "low": 2000
+        },
+        {
+            "name": "muhammadsav",
+            "price": 634200.77,
+            "high": 15000,
+            "low": 1000
+        },
+        {
+            "name": "noscoper_xx",
+            "price": 632050,
+            "high": 19934,
+            "low": 40
+        },
+        {
+            "name": "Vladi02021982",
+            "price": 621083.72,
+            "high": 2000,
+            "low": 1000
+        },
+        {
+            "name": "Ilnyrbuy",
+            "price": 620000,
+            "high": 9107,
+            "low": 100
+        },
+        {
+            "name": "wtb75",
+            "price": 609083.91,
+            "high": 10965,
+            "low": 500
+        },
+        {
+            "name": "gadel777",
+            "price": 609083.91,
+            "high": 14000,
+            "low": 5000
+        },
+        {
+            "name": "card2card",
+            "price": 598409.24,
+            "high": 45000,
+            "low": 5000
+        },
+        {
+            "name": "sesam72",
+            "price": 595893.4,
+            "high": 14000,
+            "low": 300
+        },
+        {
+            "name": "Vanorik007",
+            "price": 595893.4,
+            "high": 12017,
+            "low": 50
+        },
+        {
+            "name": "ilanit5770",
+            "price": 250000,
+            "high": 200000,
+            "low": 1
+        },
+        {
+            "name": "nkzloy",
+            "price": 595893.4,
+            "high": 12743,
+            "low": 500
+        },
+        {
+            "name": "Kiss_kis_kis",
+            "price": 627293.64,
+            "high": 5675,
+            "low": 100
+        }
+    ],
+    "sell": [
+        {
+            "name": "DADDY_COOL55",
+            "price": 659977.87,
+            "high": 200000,
+            "low": 15000
+        },
+        {
+            "name": "banklike.me",
+            "price": 659979.87,
+            "high": 50000,
+            "low": 30000
+        },
+        {
+            "name": "prMADURO",
+            "price": 661000,
+            "high": 160000,
+            "low": 6000
+        },
+        {
+            "name": "Iron-Patriot",
+            "price": 661000,
+            "high": 20000,
+            "low": 16001
+        },
+        {
+            "name": "API666",
+            "price": 663966,
+            "high": 90000,
+            "low": 6000
+        },
+        {
+            "name": "FERARRI777",
+            "price": 663967,
+            "high": 50000,
+            "low": 5000
+        },
+        {
+            "name": "niktugol",
+            "price": 664033,
+            "high": 200000,
+            "low": 8000
+        },
+        {
+            "name": "AgentPip",
+            "price": 664036,
+            "high": 1000000,
+            "low": 8000
+        },
+        {
+            "name": "BANKI_RU",
+            "price": 664199,
+            "high": 60000,
+            "low": 6000
+        },
+        {
+            "name": "vformnglig",
+            "price": 664200,
+            "high": 400000,
+            "low": 7000
+        },
+        {
+            "name": "TurboTrade85",
+            "price": 664676,
+            "high": 30000,
+            "low": 3000
+        },
+        {
+            "name": "Morgenthal",
+            "price": 664682,
+            "high": 20000,
+            "low": 3000
+        },
+        {
+            "name": "GreyElf",
+            "price": 664682,
+            "high": 15000,
+            "low": 3000
+        },
+        {
+            "name": "1BIT1",
+            "price": 664682,
+            "high": 100000,
+            "low": 5000
+        },
+        {
+            "name": "ExcluZiVe",
+            "price": 664694,
+            "high": 150000,
+            "low": 9000
+        },
+        {
+            "name": "Aydorn",
+            "price": 665596.85,
+            "high": 15000,
+            "low": 3000
+        },
+        {
+            "name": "CRYPTODG",
+            "price": 666999,
+            "high": 150000,
+            "low": 6000
+        },
+        {
+            "name": "Vika_VM",
+            "price": 667000,
+            "high": 50000,
+            "low": 20000
+        },
+        {
+            "name": "money.bag",
+            "price": 669497,
+            "high": 150000,
+            "low": 6000
+        },
+        {
+            "name": "azeus198",
+            "price": 669500,
+            "high": 2234869,
+            "low": 4500
+        },
+        {
+            "name": "notepadair",
+            "price": 669799,
+            "high": 0,
+            "low": 5000
+        },
+        {
+            "name": "MAL0YE",
+            "price": 669799,
+            "high": 150000,
+            "low": 6000
+        },
+        {
+            "name": "btcup2",
+            "price": 672894.38,
+            "high": 220704,
+            "low": 6000
+        },
+        {
+            "name": "bar56",
+            "price": 675985,
+            "high": 15000,
+            "low": 3000
+        },
+        {
+            "name": "accex.co",
+            "price": 675987,
+            "high": 15000,
+            "low": 1000
+        },
+        {
+            "name": "hardcrime8881",
+            "price": 675990,
+            "high": 18000,
+            "low": 2100
+        },
+        {
+            "name": "bankex",
+            "price": 676801,
+            "high": 100000,
+            "low": 9000
+        },
+        {
+            "name": "yura023",
+            "price": 676802,
+            "high": 250000,
+            "low": 20000
+        },
+        {
+            "name": "gold_standard",
+            "price": 676806,
+            "high": 90000,
+            "low": 6000
+        },
+        {
+            "name": "honda611io",
+            "price": 676808.46,
+            "high": 15000,
+            "low": 3000
+        },
+        {
+            "name": "6h123",
+            "price": 676809.46,
+            "high": 296983,
+            "low": 3000
+        },
+        {
+            "name": "pna",
+            "price": 677949,
+            "high": 10000,
+            "low": 500
+        },
+        {
+            "name": "Donald_Trump",
+            "price": 677954,
+            "high": 150000,
+            "low": 8000
+        },
+        {
+            "name": "BitPlanet",
+            "price": 677966,
+            "high": 150000,
+            "low": 9000
+        },
+        {
+            "name": "salecoin",
+            "price": 677975,
+            "high": 15000,
+            "low": 390
+        },
+        {
+            "name": "CommunaExchange",
+            "price": 677993,
+            "high": 49922,
+            "low": 100
+        },
+        {
+            "name": "Garifullin13",
+            "price": 678000,
+            "high": 10000,
+            "low": 2000
+        },
+        {
+            "name": "Artemgit20",
+            "price": 678099,
+            "high": 14400,
+            "low": 1500
+        },
+        {
+            "name": "pay2day.top",
+            "price": 678155.28,
+            "high": 30000,
+            "low": 3000
+        },
+        {
+            "name": "artes777",
+            "price": 678155.28,
+            "high": 23000,
+            "low": 2000
+        },
+        {
+            "name": "UralCoin",
+            "price": 679804.37,
+            "high": 50000,
+            "low": 900
+        },
+        {
+            "name": "QWERTL",
+            "price": 679804.37,
+            "high": 50000,
+            "low": 5000
+        },
+        {
+            "name": "El+Change",
+            "price": 679999,
+            "high": 10000,
+            "low": 500
+        },
+        {
+            "name": "Bigbit0978",
+            "price": 680000,
+            "high": 88900,
+            "low": 1000
+        },
+        {
+            "name": "Volotka",
+            "price": 683995,
+            "high": 20000,
+            "low": 1
+        },
+        {
+            "name": "MezencevAS",
+            "price": 683998,
+            "high": 29990,
+            "low": 100
+        },
+        {
+            "name": "btcspbsber",
+            "price": 684000,
+            "high": 13700,
+            "low": 990
+        },
+        {
+            "name": "wwars",
+            "price": 685000,
+            "high": 30000,
+            "low": 1000
+        },
+        {
+            "name": "vlad081",
+            "price": 688116,
+            "high": 15000,
+            "low": 500
+        },
+        {
+            "name": "Lesorub44",
+            "price": 688119,
+            "high": 0,
+            "low": 1
+        }
+    ]
+}
