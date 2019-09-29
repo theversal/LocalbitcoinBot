@@ -38,4 +38,28 @@
             "error_code": 41
         }
     }
+}{
+    "dashboard": null,
+    "data": {
+        "error": {
+            "message": "HMAC authentication key and signature was given, but they are invalid.",
+            "error_code": 41
+        }
+    }
+}{
+    "dashboard": null,
+    "data": {
+        "error": {
+            "message": "HMAC authentication key and signature was given, but they are invalid.",
+            "error_code": 41
+        }
+    }
+}{
+    "dashboard": null,
+    "data": {
+        "error": {
+            "message": "HMAC authentication key and signature was given, but they are invalid.",
+            "error_code": 41
+        }
+    }
 }

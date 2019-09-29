@@ -121,7 +121,6 @@ exports.min_max_wallet = function min_max_wallet(amount, system){
 
 }
 
-
 exports.find_free_phone = function find_free_phone(id, system){
 	     let phone = false;
          var all_phones_check = {};
