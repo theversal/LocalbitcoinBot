@@ -21,7 +21,7 @@ Install Node.js - 32 bit version for 32 bit systems or 64 bit version for 64 bit
 through terminal/console  
 run npm install in folder if it's in your desktop (cd ./desktop/localbitcoinBot then 'npm install')  
 add your data to the file account.json  
-and then run 'node qiwi' or qiwi automatic.sh  
+and then run 'node qiwi' or run qiwi.sh   
    
 Windows instruction   
 Install Node.js  
