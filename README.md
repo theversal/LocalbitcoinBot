@@ -25,7 +25,7 @@ and then run 'node qiwi' or run qiwi.sh
    
 Windows instruction   
 Install Node.js  
-Download with node modules (download the localbitcoinBot.zip file) [here](https://github.com/RobinsonNikolay/LocalbitcoinBot/releases)
+Download with node modules (download the localbitcoinBot.zip file) [here](https://github.com/RobinsonNikolay/LocalbitcoinBot/releases)  
 add your data to the file account.json  
 Double-click qiwi.bat.  
   
