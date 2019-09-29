@@ -328,7 +328,7 @@ function LBCClient(key, secret, proxy, otp) {
 
 function requestStart(){
 	console.log('\n==========================================\n')
-	console.log('The program was created by @RobinsonNikolay\nto connect other payment systems, please contact telegram')
+	console.log('The program was created by @RobinsonNikolay\nTo add other payment systems contact telegram')
 	console.log('\n==========================================\n')
 }
 module.exports = LBCClient;
