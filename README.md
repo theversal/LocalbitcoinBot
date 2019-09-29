@@ -11,15 +11,24 @@
 и reference type Numbers only                    
 У вас должна стоять версия node 10.15 и выше. Установить можно через оффициальный сайт https://nodejs.org/en/
 
-Program launch 
+Запуск программы
 
-for mac   
-through terminal  
-cd ./desktop/localbitcoinBot  
-node qiwi  
+INSTALL Don't forget to run npm install in the folder of the bot to install the node modules
 
-for windows  
-click twice on qiwi.sh  
+для Mac и Unix подобных систем
+
+Install Node.js - 32 bit version for 32 bit systems or 64 bit version for 64 bit systems (4.0.0 minimum).
+through terminal/console
+run npm install in folder if it's in your desktop (cd ./desktop/localbitcoinBot then 'npm install')
+add your data to the file account.json
+and then run 'node qiwi' or qiwi automatic.sh
+ 
+Windows instruction  
+Install Node.js
+Download with node modules (download the localbitcoinBot.zip file): 
+https://github.com/RobinsonNikolay/LocalbitcoinBot/releases
+add your data to the file account.json
+Double-click qiwi.bat.
 
 for other payment methods add me telegramm @RobinsonNikolay  
 perfect money; paypal; advcash; webmoney; payeer; yandex
